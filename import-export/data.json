@@ -1,0 +1,17 @@
+[
+    {
+        "name":"John Doe",
+        "age":33,
+        "address":"Baguio"
+    },
+    {
+        "name":"Sam Smith",
+        "age":41,
+        "address":"Vigan"
+    },
+    {
+        "name":"Tim White",
+        "age":26,
+        "address":"Manila"
+    }
+]

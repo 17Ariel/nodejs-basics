@@ -15,3 +15,18 @@ console.log(person.getName());
 
 const people = require("./producer");
 console.log(people.getName());
+
+const person1 = {
+  name: "Doe",
+};
+
+// const person2 = person1;
+// person2.name = "Smith";
+
+let person2;
+
+person2 = {
+  name: "Harry",
+};
+
+console.log(person1);
